@@ -12,6 +12,8 @@ public class Test {
 
         System.out.println(sum);
 
-
+        System.out.println("Create new branch");
+        System.out.println("This message is from a newBranch");
+        System.out.println("Im fine");
     }
 }
